@@ -1,0 +1,122 @@
+Year,Location,X,Y,Context,Category2,Category,Importance,Description,Image
+1920,b,53.3497,-6.2603,test,Assassination,All,3,test,r
+1969,b,54.9917,-7.3417,test,Battle,All,1,test,r
+941,b,52.8,-8.45,test,Births,All,1,test,r
+1758,b,54.5167,-6.0333,test,Births,All,1,test,r
+1760,b,54.387,-5.9525,test,Births,All,1,test,r
+1763,b,53.3497,-6.2603,test,Births,All,2,test,r
+1014,b,53.365,-6.21,test,Deaths,All,1,test,r
+1014,b,54.3494,-6.6544,test,Deaths,All,1,test,r
+1922,b,51.8218,-8.8557,test,Deaths,All,3,test,r
+1632,b,54.6157,-7.8845,test,Event,All,1,test,r
+1847,b,54.2305,-8.3208,test,Eviction,All,3,test,r
+1849,b,52.85,-8.0361,test,Execution,All,2,test,r
+1798,b,52.34,-6.78,test,Execution,All,3,test,r
+1798,b,52.3956,-6.9451,test,Execution,All,3,test,r
+1798,b,53.0556,-6.7039,test,Execution,All,2,test,r
+1798,b,53.1526,-6.8603,test,Execution,All,3,test,r
+1798,b,54.5167,-6.0333,test,Execution,All,1,test,r
+1607,b,55.0942,-7.5375,test,Flight of the earls,All,3,test,r
+1849,b,54.1351,-9.9135,test,Food Security,All,2,test,r
+1912,b,54.5964,-5.93,test,Industry,All,2,test,r
+1912,b,54.5964,-5.93,test,Industry,All,2,test,r
+1912,b,54.5964,-5.93,test,Institutions,All,3,test,r
+1829,b,54.9917,-7.3417,test,Institutions,All,1,test,r
+1852,b,51.9,-8.4731,test,Institutions,All,1,test,r
+1905,b,54.9917,-7.3417,test,Institutions,All,1,test,r
+1176,b,54.3494,-6.6544,test,Invasion,All,1,test,r
+1177,b,54.322,-5.703,test,Invasion,All,1,test,r
+1315,b,54.8517,-5.8133,test,Massacre,All,3,test,r
+1641,b,54.421,-6.4582,test,Massacre,All,3,test,r
+1642,b,55.295,-6.1975,test,Massacre,All,3,test,r
+1798,b,52.3595,-6.7724,test,Massacre,All,3,test,r
+1798,b,52.7097,-6.4958,test,Massacre,All,2,test,r
+1920,b,53.3606,-6.2515,test,Massacre,All,3,test,r
+1972,b,54.9917,-7.3417,test,Massacre,All,3,test,r
+1993,b,55.0317,-7.1206,test,Massacre,All,3,test,r
+1998,b,54.59,-7.29,test,Massacre,All,3,test,r
+1333,b,54.5964,-5.93,test,Murder,All,1,test,r
+1860,b,53.1858,-6.1881,test,Nature,All,1,test,r
+1492,b,54.6157,-7.8845,test,Other,All,1,test,r
+1597,b,53.3497,-6.2603,test,Other,All,2,test,r
+1779,b,51.8339,-8.2856,test,Other,All,1,test,r
+1795,b,54.6157,-7.8845,test,Other,All,3,test,r
+1798,b,54.2125,-9.2214,test,Other,All,3,test,r
+1798,b,54.9917,-7.3417,test,Other,All,2,test,r
+1798,b,55.1364,-7.456,test,Other,All,2,test,r
+1798,b,55.158,-7.5219,test,Other,All,3,test,r
+1822,b,53.3497,-6.2603,test,Penal Colony,All,1,test,r
+1921,b,51.8339,-8.2856,test,Penal Colony,All,2,test,r
+1933,b,54.182,-7.361,test,Penal Colony,All,1,test,r
+1934,b,54.5964,-5.93,test,Penal Colony,All,1,test,r
+1934,b,54.9917,-7.3417,test,Penal Colony,All,1,test,r
+1946,b,53.3497,-6.2603,test,Penal Colony,All,1,test,r
+1984,b,51.7717,-10.538,test,Penal Colony,All,2,test,r
+1796,b,54.59,-7.29,test,Penal Colony,All,1,test,r
+1797,b,51.9,-8.4731,test,Penal Colony,All,1,test,r
+1797,b,54.4633,-6.0832,test,Penal Colony,All,1,test,r
+1798,b,53.3497,-6.2603,test,Penal Colony,All,1,test,r
+1798,b,54.5964,-5.93,test,Penal Colony,All,1,test,r
+1823,b,53.9469,-8.09,test,Penal Colony,All,1,test,r
+1828,b,54.9917,-7.3417,test,Penal Colony,All,1,test,r
+1836,b,53.6983,-8.2183,test,Penal Colony,All,1,test,r
+1837,b,54.9931,-7.0411,test,Penal Colony,All,1,test,r
+1838,b,52.8573,-8.9374,test,Penal Colony,All,1,test,r
+1840,b,53.732,-7.6954,test,Penal Colony,All,1,test,r
+1842,b,52.9985,-7.398,test,Penal Colony,All,1,test,r
+1844,b,53.1362,-7.8103,test,Penal Colony,All,1,test,r
+1845,b,52.4883,-8.8546,test,Penal Colony,All,1,test,r
+1845,b,54.3619,-7.6567,test,Penal Colony,All,1,test,r
+1847,b,51.9175,-8.586,test,Penal Colony,All,1,test,r
+1847,b,53.9469,-8.09,test,Politics,All,1,test,r
+1847,b,54.6353,-7.2611,test,Politics,All,1,test,r
+1848,b,52.2583,-7.119,test,Politics,All,1,test,r
+1849,b,52.5687,-7.189,test,Politics,All,1,test,r
+1849,b,53.3435,-8.8734,test,Politics,All,1,test,r
+1849,b,53.9087,-9.2983,test,Politics,All,1,test,r
+1849,b,54.302,-6.6124,test,Politics,All,1,test,r
+1850,b,52.0842,-8.7069,test,Politics,All,1,test,r
+1367,b,52.6477,-7.2561,test,Politics,All,1,test,r
+1613,b,51.5267,-9.5481,test,Politics,All,1,test,r
+1791,b,54.5964,-5.93,test,Politics,All,3,test,r
+1852,b,51.8339,-8.2856,test,Prison,All,3,test,r
+1641,b,53.3497,-6.2603,test,Rebellion,All,3,test,r
+1641,b,53.991,-7.3601,test,Rebellion,All,1,test,r
+1641,b,54.5161,-6.0414,test,Rebellion,All,2,test,r
+1798,b,51.6485,-8.8797,test,Rebellion,All,2,test,r
+1798,b,52.31,-6.75,test,Rebellion,All,2,test,r
+1798,b,52.3315,-6.5443,test,Rebellion,All,2,test,r
+1798,b,52.5021,-6.5659,test,Rebellion,All,2,test,r
+1798,b,52.5021,-6.5659,test,Rebellion,All,2,test,r
+1798,b,52.505,-6.39,test,Rebellion,All,2,test,r
+1798,b,52.555,-6.4559,test,Rebellion,All,2,test,r
+1798,b,52.625,-6.3496,test,Rebellion,All,2,test,r
+1798,b,52.65,-6.65,test,Rebellion,All,2,test,r
+1798,b,52.7097,-6.4958,test,Rebellion,All,2,test,r
+1798,b,52.7941,-6.1649,test,Rebellion,All,2,test,r
+1798,b,52.8306,-6.9317,test,Rebellion,All,2,test,r
+1798,b,53.0901,-6.1103,test,Rebellion,All,2,test,r
+1798,b,53.107,-6.7625,test,Rebellion,All,2,test,r
+1798,b,53.13,-6.745,test,Rebellion,All,2,test,r
+1798,b,53.2158,-6.6669,test,Rebellion,All,2,test,r
+1798,b,53.221,-6.9935,test,Rebellion,All,2,test,r
+1798,b,53.288,-6.755,test,Rebellion,All,2,test,r
+1798,b,53.395,-6.679,test,Rebellion,All,2,test,r
+1798,b,53.58,-6.6122,test,Rebellion,All,2,test,r
+1798,b,53.81,-6.3655,test,Rebellion,All,2,test,r
+1798,b,53.8608,-9.2988,test,Rebellion,All,2,test,r
+1798,b,53.8667,-7.7167,test,Rebellion,All,2,test,r
+1798,b,54.1833,-8.5,test,Rebellion,All,2,test,r
+1798,b,54.2125,-9.2214,test,Rebellion,All,3,test,r
+1798,b,54.3833,-5.8833,test,Rebellion,All,2,test,r
+1798,b,54.46,-5.83,test,Rebellion,All,2,test,r
+1798,b,54.7173,-6.2055,test,Rebellion,All,2,test,r
+1798,b,55.25,-8.2167,test,Rebellion,All,3,test,r
+1851,b,52.6092,-7.5095,test,Rebellion,All,2,test,r
+1570,b,54.542,-5.48,test,Settlement,All,1,test,r
+1014,b,53.365,-6.21,test,Viking,All,3,test,r
+1601,b,51.7075,-8.5306,test,War,All,3,test,r
+1690,b,53.715,-6.3525,test,War,All,3,test,r
+1691,b,52.8533,-6.3275,test,War,All,3,test,r
+1940,b,52.2833,-6.9333,test,War,All,2,test,r
+1941,b,54.5964,-5.93,test,War,All,2,test,r
